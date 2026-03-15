@@ -1,0 +1,4 @@
+A zero-dependency, single-file IPv4 subnet calculator that goes beyond just showing results.
+Enter an IP address and a subnet mask (dotted-decimal or CIDR) to instantly compute the network address, broadcast address, host range, and wildcard mask — while visualizing the bitwise AND operation bit by bit, octet by octet, so you actually understand how the network address is derived.
+
+Un calculateur de sous-réseau IPv4 autonome et basé sur un seul fichier, qui va bien au-delà de l'affichage des résultats. Saisissez une adresse IP et un masque de sous-réseau (décimal pointé ou CIDR) pour calculer instantanément l'adresse réseau, l'adresse de diffusion, la plage d'hôtes et le masque générique, tout en visualisant l'opération ET bit à bit, octet par octet, afin de comprendre concrètement le calcul de l'adresse réseau.
